@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]()
+![logo](https://github.com/ABHISHEK-GHOSAL/ABHISHEK-GHOSAL/blob/main/banner.gif)
 
 <h1 align="center">Hi 👋, I'm Abhishek Ghosal</h1>
 <h3 align="center">A passionate Cloud Backend Engineer from India</h3>
