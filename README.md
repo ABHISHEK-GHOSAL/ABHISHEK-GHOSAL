@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AWS, Aneka, JAVA, SQL. PL/SQL**
 
-- 🌱 I’m currently learning **ML Mpdels**
+- 🌱 I’m currently learning **ML Models**
 
 - 📫 How to reach me **digvastra7@gmail.com**
 
